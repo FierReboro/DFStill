@@ -1,16 +1,18 @@
 # DF-rawmod
 
+	Spec_Rs contains the raws for reaction_other.txt
+  		ex: [REACTION:BREW_GUAVA_WINE]
+	        	[NAME:brew Guava Wine]
+	P_Mtd contains the raws for entity_default.txt
+  		ex: [PERMITTED_REACTION:BREW_GUAVA_WINE]
+	Dv-inj contains the code for devel/inject-raws
+
 keywords:  
 
 	*main* == Dwarf fortress main folder
 	*world* == your World's save folder
 
-	Spec_Rs contains the raws for reaction_other.txt
-  	ex: [REACTION:BREW_GUAVA_WINE]
-	        [NAME:brew Guava Wine]
-	P_Mtd contains the raws for entity_default.txt
-  	ex: [PERMITTED_REACTION:BREW_GUAVA_WINE]
-	Dv-inj contains the code for devel/inject-raws
+	
 
 
 Instructions for beginners:
