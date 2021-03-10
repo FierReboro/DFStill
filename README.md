@@ -5,7 +5,7 @@
 	        	[NAME:brew Guava Wine]
 	P_Mtd contains the raws for entity_default.txt
   		ex: [PERMITTED_REACTION:BREW_GUAVA_WINE]
-	Dv-inj contains the code for devel/inject-raws
+	Dv-inj contains the code for DFhack's devel/inject-raws
 
 keywords:  
 
