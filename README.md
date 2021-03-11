@@ -1,4 +1,4 @@
-# DFSTill
+# DFStill
 
 	Spec_Rs contains the raws for reaction_other.txt
   		ex: [REACTION:BREW_GUAVA_WINE]
